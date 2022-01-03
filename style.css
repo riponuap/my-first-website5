@@ -1,0 +1,21 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font: 50px;
+}
+.name-color{
+    color: pink;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 60px;
+    text-align: justify;
+}
+.first-pic{
+    height: 500px;
+}
+.first-line{
+    text-align: center;
+}
